@@ -15,4 +15,5 @@ https://aws.amazon.com/es/
 
 
 Puedes seguir mis newsletter en LinkedIn: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6912039101193990144
-Me puedes seguir en mi canal de youtube donde explico como lo hice:
+
+Me puedes seguir en mi canal de youtube donde explico como lo hice: https://youtu.be/JvkKg3pUQIc
